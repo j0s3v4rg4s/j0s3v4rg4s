@@ -6,6 +6,9 @@
 
 Hi, I'm jose a passionate full stack developer that ❤️ mentoring and theaching. I'm specialized in creating amazing solutions with Angular and Firebase technologies 
 
+## Love technologies 
+<img src="https://img.icons8.com/color/48/000000/angularjs.png"/> <img src="https://img.icons8.com/ultraviolet/40/000000/react--v2.png"/> <img src="https://img.icons8.com/doodle/48/000000/svetle.png"/> <img src="https://img.icons8.com/fluency/48/000000/flutter.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
+
 ```js
 const joseVargas = {
   country: 'Colombia 🇨🇴',
