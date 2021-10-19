@@ -6,10 +6,9 @@
 
 Hi, I'm jose a passionate full stack developer that ❤️ mentoring and theaching. I'm specialized in creating amazing solutions with Angular and Firebase technologies 
 
-## ❤️ technologies 
+## Love technologies 
 <img src="https://img.icons8.com/color/48/000000/angularjs.png"/> <img src="https://img.icons8.com/ultraviolet/40/000000/react--v2.png"/> <img src="https://img.icons8.com/doodle/48/000000/svetle.png"/> <img src="https://img.icons8.com/fluency/48/000000/flutter.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 
-## My code
 
 ```js
 const joseVargas = {
@@ -27,5 +26,12 @@ const joseVargas = {
 }
 ```
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=j0s3v4rg4s&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center" style="position: relative">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0s3v4rg4s&hide=c&layout=compact" alt="abhisheknaiidu" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=j0s3v4rg4s&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+</p>
+
+
+
+
 
