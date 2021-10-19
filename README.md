@@ -17,6 +17,7 @@ const joseVargas = {
     cloud: ['Google Cloud', 'Heroku'],
     testing: ['Jest', 'Jasmin', 'Testing library'],
     databases: ["Firebase Realtime", "Postgres", "Firestore"],
+    mobile: ['Ionic', 'Flutter']
   }
 }
 ```
